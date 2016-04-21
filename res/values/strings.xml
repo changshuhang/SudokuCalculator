@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">数独计算器</string>
+
+    <string name="select_number">选择数字</string>
+    <string name="popup_delete">删除</string>
+    <string name="popup_lookup">查看</string>
+    <string name="ok">确认</string>
+    <string name="cancel">取消</string>
+    <string name="clear">清除</string>
+    
+    <string name="main_help">帮助</string>
+    <string name="main_clear">清空</string>
+    <string name="main_save">保存</string>
+    <string name="main_jieping">截屏</string>
+    <string name="main_lishi">打开</string>
+    <string name="main_random">随机</string>
+    
+    <string name="start_clculator">开始计算</string>
+    
+    <string name="activity_info">正在计算中，请稍后...."</string>
+    <string name="activity_calculator_failed">计算失败!</string>
+    <string name="activity_calculator_success">计算成功!</string>
+    
+    <string name="activity_jieping_failed">截屏失败!</string>
+    <string name="activity_jieping_success">截屏成功!</string>
+    
+    <string name="activity_delete_message">删除数据成功!</string>
+    <string name="activity_save_message">保存数据成功!</string>
+    
+    <string name="activity_dialog_lishililu">历史记录</string>
+    <string name="activity_dialog_hempinfo">帮助信息</string>
+    <string name="activity_save_info">保存数据</string>
+    <string name="activity_tishi_info">亲，您还没有保存数据!</string>
+    <string name="activity_save_max">亲，最大保存20条数据!</string>
+    
+    <string name="help_info1">您还为生活当中为遇到数独游戏想知道答案而不能求解释苦恼吗？</string>
+    <string name="help_info2">数独计算器是专门为计算数独游戏设计，它能够辅助我们快乐的计算出结果！</string>
+    <string name="help_info3">功能介绍</string>
+    <string name="help_info4">"帮助":用来提供一些功能说明</string>
+    <string name="help_info5">“清空”：用来清空方格中的所有数据</string>
+    <string name="help_info6">“保存”：用来保存当前数独游戏的数据</string>
+    <string name="help_info7">“截屏”：用来截取当前的屏幕</string>
+    <string name="help_info8">“随机”：用来由系统随机产生一个完整的数独数据</string>
+    <string name="help_info9">“打开”：用来打开以前保存过的数据</string>
+    <string name="help_info10">“计算功能”：把您的数据输入到方格当中，点击"开始计算"按钮，就可以知道计算结果了！</string>
+    <string name="help_info11">“反馈”:您的建议是我前进的最大助力，如有建议欢迎致电1447566277@qq.com</string>
+</resources>

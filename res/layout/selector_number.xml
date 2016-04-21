@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout 
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content" 
+    android:layout_gravity="center">
+
+    <ImageView
+        android:id="@+id/imageView1"
+        android:contentDescription="@string/select_number"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:src="@drawable/number_big_1" />
+
+    <ImageView
+        android:id="@+id/imageView2"
+        android:contentDescription="@string/select_number"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_toRightOf="@id/imageView1"
+        android:layout_alignParentTop="true"
+        android:src="@drawable/number_big_2" />
+    
+    <ImageView
+        android:id="@+id/imageView3"
+        android:contentDescription="@string/select_number"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_toRightOf="@id/imageView2"
+        android:layout_alignParentTop="true"
+        android:src="@drawable/number_big_3" />
+    
+    <ImageView
+        android:id="@+id/imageView4"
+        android:contentDescription="@string/select_number"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@id/imageView1"
+        android:src="@drawable/number_big_4" />
+    
+    <ImageView
+        android:id="@+id/imageView5"
+        android:contentDescription="@string/select_number"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_toRightOf="@id/imageView4"
+        android:layout_below="@id/imageView2"
+        android:src="@drawable/number_big_5" />
+    
+    <ImageView
+        android:id="@+id/imageView6"
+        android:contentDescription="@string/select_number"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_toRightOf="@id/imageView5"
+        android:layout_below="@id/imageView3"
+        android:src="@drawable/number_big_6" />
+    
+    <ImageView
+        android:id="@+id/imageView7"
+        android:contentDescription="@string/select_number"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@id/imageView4"
+        android:src="@drawable/number_big_7" />
+    
+    <ImageView
+        android:id="@+id/imageView8"
+        android:contentDescription="@string/select_number"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_toRightOf="@id/imageView7"
+        android:layout_below="@id/imageView5"
+        android:src="@drawable/number_big_8" />
+    
+    <ImageView
+        android:id="@+id/imageView9"
+        android:contentDescription="@string/select_number"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_toRightOf="@id/imageView8"
+        android:layout_below="@id/imageView6"
+        android:src="@drawable/number_big_9" />
+    
+
+</RelativeLayout>

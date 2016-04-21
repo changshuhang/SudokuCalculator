@@ -1,0 +1,15 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/lookup"
+        android:orderInCategory="100"
+        android:showAsAction="always"
+        android:title="@string/popup_lookup"/>
+
+    <item
+        android:id="@+id/delete"
+        android:orderInCategory="100"
+        android:showAsAction="always"
+        android:title="@string/popup_delete"/>
+    
+</menu>

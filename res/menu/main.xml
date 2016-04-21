@@ -1,0 +1,39 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/action_help"
+        android:orderInCategory="100"
+        android:showAsAction="always"
+        android:title="@string/main_help"/>
+
+    <item
+        android:id="@+id/action_clear"
+        android:orderInCategory="100"
+        android:showAsAction="always"
+        android:title="@string/main_clear"/>
+    
+    <item
+        android:id="@+id/action_save"
+        android:orderInCategory="100"
+        android:showAsAction="always"
+        android:title="@string/main_save"/>
+    
+    <item
+        android:id="@+id/action_jieping"
+        android:orderInCategory="100"
+        android:showAsAction="always"
+        android:title="@string/main_jieping"/>
+    
+    <item
+        android:id="@+id/action_random"
+        android:orderInCategory="100"
+        android:showAsAction="always"
+        android:title="@string/main_random"/>
+    
+    <item
+        android:id="@+id/action_lishi"
+        android:orderInCategory="100"
+        android:showAsAction="always"
+        android:title="@string/main_lishi"/>
+    
+</menu>
