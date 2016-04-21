@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lint>
+    <issue id="ClickableViewAccessibility" severity="ignore" />
+    <issue id="NewApi">
+        <ignore path="src/com/csh/cn/MainActivity.java" />
+    </issue>
+    <issue id="SdCardPath">
+        <ignore path="src/com/csh/cn/MainActivity.java" />
+    </issue>
+    <issue id="SimpleDateFormat">
+        <ignore path="src/com/csh/cn/MainActivity.java" />
+    </issue>
+</lint>
